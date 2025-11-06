@@ -143,3 +143,5 @@ Active types found: 8
 Type created for deletion: TypeDTO(id=11, name=ferret, ...)
 Type deleted with id: 11
 Validation successful: Type not found after deletion
+
+    
